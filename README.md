@@ -2,7 +2,7 @@
 
 **PlacePredictAI** is an AI-powered web application designed to help students prepare for **campus placements**. It provides resources and AI assistance for coding, aptitude, technical interviews, and placement preparation.
 
-🔗 **Live Website:** [PlacePredictAI](https://placepredictai.netlify.app/?utm_source=chatgpt.com)
+🔗 **Live Website:** [PlacePredictAI](https://placepredictai.netlify.app/)
 
 ## ✨ Features
 
